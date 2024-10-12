@@ -15,7 +15,7 @@ const app =express()
 const PORT =process.env.PORT
 
 // const corsOptions = {
-//       origin:"http://localhost:5173",
+//       origin:"https://perfume-6-thasnimthasims-projects.vercel.app/",
 //       method: "GET,POST,HEAD,PUT,PATCH,DELETE",
 //       credentials: true,
 //       allowedHeader: "Content-Type, Authorization"
